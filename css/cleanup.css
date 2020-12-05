@@ -2,27 +2,27 @@
   display: none;
 }
 
-#wall .tag-2 {
+#wall #tag-2 {
   display: none;
 }
 
-.tag-3 {
+#wall #tag-3 .slick  {
   display: none;
 }
 
-.tag-4 {
+#wall .parent #tag-4 {
   display: none;
 }
 
-.tag-5 {
+.parent #tag-5 {
   display: none;
 }
 
-.tag-6 {
+.parent #tag-6 {
   display: none;
 }
 
-.tag-7 {
+.parent #tag-7 .slick {
   display: none;
 }
 
