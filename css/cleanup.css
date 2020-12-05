@@ -14,15 +14,15 @@
   display: none;
 }
 
-#wall .parent #tag-5.slick {
+#wall .parent #tag-5 .slick {
   display: none;
 }
 
-.parent #tag-6 {
+#wall .parent :last-child #tag-6 {
   display: none;
 }
 
-.parent #tag-7 .slick {
+#wall .parent > #tag-7 .slick {
   display: none;
 }
 
